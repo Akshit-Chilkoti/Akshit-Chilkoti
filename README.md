@@ -21,6 +21,3 @@
 
 
 ```
-
-
-_inactive cuz jee_
